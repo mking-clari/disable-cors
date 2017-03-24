@@ -1,7 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Disable CORS",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "description": "Zero configuration, open source extension to disable CORS everywhere.",
   "background": {
     "scripts": ["background.js"]
   },
